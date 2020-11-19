@@ -35,4 +35,16 @@ Sikh
 
 
 # Cultural Celebrations
-Diwali, Rakhri, 
+Diwali, Rakhri,
+
+
+# Cultural Foods
+Parshad, Tandoori Chicken, Rotti, Paneer etc.
+
+
+# Sports
+Soccer, basketball, Track
+
+
+# Music
+Rap, Lil Baby, Polo G, Lil Durk
