@@ -8,3 +8,31 @@ Hi my name is Remi. I love many things such as Sports, Travel, and cars. These a
 
 # 50 Word career plan SUMMARY
 After highschool I plan on being successful. At the moment I don't know what that success is going to be fully, but I do have some ideas. Such as start my own business, or maybe even working in the tech industry. Out of all those the one career that stands out to me the most is starting my own business since I am very independent.
+
+
+# Nationality
+Indian
+
+
+# Ethnicity
+Punjabi
+
+
+# Languages
+Punjabi, English
+
+
+# Birth places
+Edmonton Alberta
+
+
+# Full name
+Remi Khatra
+
+
+# Culture
+Sikh
+
+
+# Cultural Celebrations
+Diwali, Rakhri, 
